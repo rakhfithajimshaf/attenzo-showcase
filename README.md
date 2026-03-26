@@ -1,4 +1,4 @@
-# 🎓 Attenzo – Student Attendance Tracker
+#  Attenzo – Student Attendance Tracker
 
 ##  Overview
 
