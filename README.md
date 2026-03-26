@@ -33,7 +33,14 @@ Attenzo is a full-stack web application developed to efficiently manage student 
 
 ##  Screenshots
 
-(Add your project screenshots here)
+![Home](./homepage.png)
+![Login](./login.png)
+![Admin Dashboard](./admindashboard.png)
+![Faculty Dashboard](./facultydashboard.png)
+![Student Dashboard](./studentdashboard.png)
+![Mark](./mark.png)
+![View Attendance](./viewattendance.png)
+
 
 ##  Note
 
